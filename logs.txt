@@ -1,0 +1,7 @@
+2026-05-22 02:40:07.032525 | AWS: True, Azure: True, Decision: USE_AZURE
+2026-05-22 02:40:17.209291 | AWS: True, Azure: True, Decision: USE_AZURE
+2026-05-22 02:40:29.575176 | AWS: True, Azure: False, Decision: USE_AWS
+2026-05-22 02:40:42.011263 | AWS: True, Azure: False, Decision: USE_AWS
+2026-05-22 02:40:54.371016 | AWS: False, Azure: True, Decision: USE_AZURE
+2026-05-22 02:41:08.834328 | AWS: False, Azure: False, Decision: NO_SERVER
+2026-05-22 02:41:23.218863 | AWS: False, Azure: False, Decision: NO_SERVER

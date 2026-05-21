@@ -1,0 +1,13 @@
+AWS: True, Azure: True, Decision: USE_AWS
+AWS: True, Azure: True, Decision: USE_AWS
+AWS: False, Azure: True, Decision: USE_AZURE
+AWS: False, Azure: True, Decision: USE_AZURE
+2026-05-22 02:11:18.808383 | AWS: True, Azure: True, Decision: USE_AWS
+2026-05-22 02:11:29.006180 | AWS: True, Azure: True, Decision: USE_AWS
+2026-05-22 02:11:39.200785 | AWS: True, Azure: True, Decision: USE_AWS
+2026-05-22 02:11:51.483257 | AWS: False, Azure: True, Decision: USE_AZURE
+2026-05-22 02:12:03.813387 | AWS: False, Azure: True, Decision: USE_AZURE
+2026-05-22 02:12:16.102773 | AWS: False, Azure: True, Decision: USE_AZURE
+2026-05-22 02:34:35.761210 | AWS: True, Azure: True, Decision: USE_AZURE
+2026-05-22 02:34:45.907795 | AWS: True, Azure: True, Decision: USE_AZURE
+2026-05-22 02:34:58.215692 | AWS: False, Azure: True, Decision: USE_AZURE
